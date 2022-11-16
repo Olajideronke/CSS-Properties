@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    background-color: white;
+    display: flex;
+    
+    line-height: 1.5rem;
+}
+h1{
+    font-size: 18px;
+}
+h2{
+    padding: 5px;
+}
+.first{
+    width: 25%;
+    height: 300px;
+    color: green;
+    border: 1px solid black;
+    font-size: 14px;
+    padding: 5px;
+    margin: auto;
+}
+.second{
+    width: 25%;
+    height: 300px;
+    color: red;
+    border: 1px solid black;
+    font-size: 14px;
+    padding: 5px;
+    margin: auto;
+}
+.third{
+    width: 25%;
+    height: 300px;
+    color: blue;
+    border: 1px solid black;
+    font-size: 14px;
+    padding: 5px;
+    margin: auto;
+}
